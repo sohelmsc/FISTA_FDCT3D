@@ -1,0 +1,5 @@
+-m 600
+-n 60
+-p 60
+-nbscales 4
+-nbdstz_coarse 4
